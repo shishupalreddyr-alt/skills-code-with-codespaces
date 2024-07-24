@@ -1,0 +1,9 @@
+{
+  //Name this configiration
+  "name":"Code space for skills",
+  //Use the base code space image
+  "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
+
+  "remoteUser": "Codespace",
+  "OverrideCommand":"false"
+}
